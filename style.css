@@ -1,4 +1,5 @@
 body {
+  text-align: center;
   margin: 0;
   min-width: 960px;
   font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
@@ -191,4 +192,9 @@ body {
 .footer-phone {
   padding-left: 25px;
   background-image: url("img/icon-phone-footer.svg");
+}
+.cartinka {
+  border: 5px solid;
+  border-color: rgb(105, 150, 248);
+  border-radius:50% ;
 }
